@@ -1,0 +1,60 @@
+*{
+   color: darkslategrey;
+}
+
+h1{
+   color: deeppink;
+}
+
+.sign{
+   color: red;
+}
+
+p{
+   color: royalblue;
+}
+
+p span{
+   color: burlywood;
+}
+
+ul li{
+   color: maroon;
+}
+
+h2#capricorn{
+   color: lightcoral;
+}
+
+h2#pisces{
+   color: midnightblue;
+}
+
+h2#aries{
+   color: aqua;
+}
+
+h2#gemini{
+   color: yellowgreen;
+}
+
+p.text {
+   color: aqua;
+}
+
+p.text-2>span{
+   color: olive;
+}
+
+.paragraph, 
+.text-2 {
+   color: palevioletred;
+}
+
+.block {
+   color: seagreen;
+}
+
+.part{
+   color: yellow;
+}
